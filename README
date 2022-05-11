@@ -1,0 +1,13 @@
+
+
+Compilation :
+utilisez make pour compiler le programme pccmain
+execution :
+    ./bin/pccmain nom_du_graphe \n
+    entrez le numero sommet de depart : nsd \n
+    entrez le numero sommet de arrivee : nsa \n
+
+nom_du_graphe : le nom du fichier.txt qui contient le graphe qui doit etre mis
+dans le repertoire principal.
+nsd : le numero sommet de depart
+nsa : le le numero sommet de arrivee
